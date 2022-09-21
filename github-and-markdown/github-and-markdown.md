@@ -16,3 +16,5 @@ Colons can be used to align columns.
 | list item |             `- list item`             |
 | link      |   `[link](https://www.example.com)`   |
 | image     |        `![link](url to image)`        |
+
+![version control](https://github.com/neuefische/hh-web-22-6/blob/week1-day1/images/version-control-example.png?raw=true)
