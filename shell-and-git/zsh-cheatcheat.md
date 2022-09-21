@@ -1,0 +1,1 @@
+- cmd+K to clear terminal
